@@ -1,5 +1,5 @@
 package com.juaracoding.ranujian1jf.ujian1;
-
+//Variabel
 public class Soal1 {
     public static void main (String args[]) {
         String movie = "Avengers: Endgame";
